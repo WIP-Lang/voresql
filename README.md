@@ -2,7 +2,7 @@ vsql
 ====
 
 vsql is a single-file SQL database written in pure [V](https://vlang.io) with
-no dependencies.
+no dependencies that vore your data.
 
 - [Usage](#usage)
   - [V Module](#v-module)
